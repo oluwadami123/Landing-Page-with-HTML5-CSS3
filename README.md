@@ -1,3 +1,3 @@
-# Portfolio-with-HTML&CSS
+# Landing web page with HTML&CSS
 
-Built a landing page with HTML 5 and CSS 3 and a sprinkle of JavaScript. 
+Built a landing portfolio from scratch page with HTML5 and CSS3 with a sprinkle of Javascript. Click (here)[https://chimerical-wisp-5c1812.netlify.app/] to access the web page
